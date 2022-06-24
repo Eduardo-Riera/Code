@@ -20,27 +20,27 @@ void setCodigo(int dat){
     codigo = dat;
     switch(codigo){
         case 2048:{
-            setTitular("Eduardo José Riera");
+            setTitular("Eduardo");
             setSaldo(100000);
             precencia = true;
         }break;
         case 1024: {
-            setTitular("Natalia estefanía del Valle Carivali");
+            setTitular("Natalia");
             setSaldo(500000);
             precencia = true;
         }break;
         case 4096: {
-            setTitular("Antonio José Riera");
+            setTitular("Antonio");
             setSaldo(1000000);
             precencia = true;
         }break;
         case 512: {
-            setTitular("Eduardo Riera");
+            setTitular("Eduardo");
             setSaldo(250000);
             precencia = true;
         }break;
         case 256: {
-            setTitular("Johan Sebastian Riera");
+            setTitular("Johan");
             setSaldo(30000);
             precencia = true;
         }break;
